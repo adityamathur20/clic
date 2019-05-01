@@ -34,7 +34,7 @@ module test;
         test_vec[2]=8'h00;
         test_vec[3]=8'h03;
 
-
+        #10
         //assigning the inputs to the interface
         test_ifc.input_vec=test_vec;
         
